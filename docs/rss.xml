@@ -1,3 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://ynnoh917.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://ynnoh917.github.io</link></image><lastBuildDate>Sat, 31 Oct 2026 10:25:54 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>失败</title><link>https://ynnoh917.github.io/post/shi-bai.html</link><description>AI微调失败，正在重新尝试，最新gguf文件请关注main分支。</description><guid isPermaLink="true">https://ynnoh917.github.io/post/shi-bai.html</guid><pubDate>Sat, 31 Oct 2026 10:25:25 +0000</pubDate></item><item><title>AI发布</title><link>https://ynnoh917.github.io/post/AI-fa-bu.html</link><description>https://huggingface.co/ysy2014/qwen666/tree/main
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://ynnoh917.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://ynnoh917.github.io</link></image><lastBuildDate>Sat, 31 Oct 2026 13:07:35 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>开始训练</title><link>https://ynnoh917.github.io/post/kai-shi-xun-lian.html</link><description>基于 Qwen1.5-0.5B 的 哈哈哈1号 模型已经正式上线
+这是huggingface仓库
+https://huggingface.co/ysy2014/qwen666/
+这是镜像仓库
+https://hf-mirror.com/ysy2014/qwen666/
+提供 F16 到 Q4KM 的完整 GGUF 量化
+使用 GPL GNU Public V3.0 许可证开源
+现在我要从 0 训练一个 100M 模型
+因为要使用 GitHub 工作流
+所以大概需要 400 天才能完成
+敬请期待吧
+注
+如果成功了
+会真的发布在一下仓库及镜像仓库中
+https://huggingface.co/ysy2014/m02/
+https://hf-mirror.com/ysy2014/m02/
+再见 挂挂机。</description><guid isPermaLink="true">https://ynnoh917.github.io/post/kai-shi-xun-lian.html</guid><pubDate>Sat, 31 Oct 2026 13:04:42 +0000</pubDate></item><item><title>失败</title><link>https://ynnoh917.github.io/post/shi-bai.html</link><description>AI微调失败，正在重新尝试，最新gguf文件请关注main分支。</description><guid isPermaLink="true">https://ynnoh917.github.io/post/shi-bai.html</guid><pubDate>Sat, 31 Oct 2026 10:25:25 +0000</pubDate></item><item><title>AI发布</title><link>https://ynnoh917.github.io/post/AI-fa-bu.html</link><description>https://huggingface.co/ysy2014/qwen666/tree/main
 今天成功发布了微调Qwen0.5B的AI模型，GGUF量化，可以在这里下载，注意要找02分支里下载。</description><guid isPermaLink="true">https://ynnoh917.github.io/post/AI-fa-bu.html</guid><pubDate>Sat, 31 Oct 2026 09:17:27 +0000</pubDate></item><item><title>Good</title><link>https://ynnoh917.github.io/post/Good.html</link><description>正在写作业。</description><guid isPermaLink="true">https://ynnoh917.github.io/post/Good.html</guid><pubDate>Wed, 28 Oct 2026 12:16:46 +0000</pubDate></item></channel></rss>
